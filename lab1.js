@@ -1,2 +1,1 @@
-const githubUsername = "MarianOseredchuk"; 
-console.log(`Hello, ${githubUsername}`);
+console.log(`Hello, MarianOseredchuk`);
